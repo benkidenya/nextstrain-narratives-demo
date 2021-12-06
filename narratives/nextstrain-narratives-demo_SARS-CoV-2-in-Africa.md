@@ -20,6 +20,8 @@ Some content that will be displayed in the left-hand panel.
 
 Content.
 
+<img src="https://neherlab.org/talk_images/infection_tree_combined.png" alt="Representation of an Infectious Disease Transmission Chain"width="100%" />
+
 ## Introduction to Phylogenetics
 
 Some more contents
