@@ -20,7 +20,7 @@ Some content that will be displayed in the left-hand panel.
 
 Content.
 
-<img src="https://www.nature.com/articles/s41598-021-00267-w/figures/1.png" alt="Representation of an Infectious Disease Transmission Chain"width="100%" />
+<img src="https://raw.githubusercontent.com/nextstrain/nextstrain-narratives-demo/main/figures/toy_alignment_tree.png" alt="Representation of an Infectious Disease Transmission Chain"width="100%" />
 
 ## Introduction to Phylogenetics
 
