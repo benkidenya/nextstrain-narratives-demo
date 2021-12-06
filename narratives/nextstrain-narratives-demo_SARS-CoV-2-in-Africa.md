@@ -30,3 +30,7 @@ Some more contents
 # [Circulation Patterns in Africa](https://nextstrain.org/community/narratives/benkidenya/nextstrain-narratives-demo@main/SARS-CoV-2-in-Africa)
 
 Africa experienced three distinct waves of SARS-CoV-2 including Beta, Alpha and Delta waves.
+
+# [Investigation of Early Pandemic of Phylogeny for SARS-CoV-2](https://nextstrain.org/community/benkidenya/nextstrain-narratives-demo/ncov/2020-03-04/)
+
+This tree represents 24 variants collected in the first month of pandemic. 
