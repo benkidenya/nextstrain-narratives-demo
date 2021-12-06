@@ -13,7 +13,7 @@ Some content that will be displayed in the left panel.
 - Two
 - Three
 
-```auspecieMainDisplayMarkdown
+```auspiceMainDisplayMarkdown
 # Introduction to Phylodynamics
 
 ## Introduction to Disease Transmission
