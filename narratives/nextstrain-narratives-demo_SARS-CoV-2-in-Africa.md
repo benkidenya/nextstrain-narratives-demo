@@ -6,11 +6,14 @@ dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
 ---
 
 # [Introduction to Phylodynamics](https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full)
+
 Some content that will be displayed in the left panel.
+
 - One
 - Two
 - Three
-```auspeciemainDisplayMarkdown
+
+```auspecieMainDisplayMarkdown
 # Introduction to Phylodynamics
 
 ## Introduction to Disease Transmission
